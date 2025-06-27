@@ -11,9 +11,9 @@ It's never too late to find a new interest, and every project brings its own les
 Sweden, Gothenburg.
 
 
-<div align=center>
+
 ### 🧰 Languages and Tools
-</div>
+
 <div align=center>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -30,7 +30,7 @@ Sweden, Gothenburg.
 <img align="left" alt="Node" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <br/>
 </div>
----
+
 <div align=center>
 
 <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hejhejsanne&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
